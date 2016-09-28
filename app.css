@@ -16,7 +16,7 @@ img {
 
 .container {
   /* Grow up to 65rem */
-  max-width: 65rem;
+  max-width: 50rem;
   /* Center if there is width left */
   margin: 0 auto;
 }
