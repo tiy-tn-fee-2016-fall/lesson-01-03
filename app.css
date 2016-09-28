@@ -7,6 +7,21 @@ body {
 
 * {
   box-sizing: border-box;
+
+  padding: 1rem;
+  border: 0.5rem white solid;
+  margin: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  /* Grow up to 65rem */
+  max-width: 65rem;
+  /* Center if there is width left */
+  margin: 0 auto;
 }
 
 .header {
