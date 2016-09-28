@@ -2,8 +2,15 @@ body {
   margin: 0;
 
   background: black;
+  color: white;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.header {
+  margin: 1rem;
+
+  color: #c00;
 }
